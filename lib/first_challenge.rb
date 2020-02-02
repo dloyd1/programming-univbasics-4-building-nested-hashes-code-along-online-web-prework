@@ -1,6 +1,13 @@
 def first_challenge
    epic_tragedy = {
-     :Montague => {},
-     :Capulet => {}
+     :Montague => {
+       patriarch: ,
+       matriarch: ,
+       hero: ,
+       hero_female:
+     },
+     :Capulet => {
+       
+     }
    }
 end
